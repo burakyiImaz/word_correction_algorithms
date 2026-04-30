@@ -354,4 +354,3 @@ Accuracy: 28/28 ✓
 
 **Geliştirici:** Burak Yılmaz  
 **Tarih:** 2026  
-**Proje:** TÜBİTAK 2247-C Bilim ve Sanat Merkezleri Ulusal Ağı
