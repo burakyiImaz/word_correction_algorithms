@@ -1,32 +1,6 @@
-# SymSpell Kelime Düzeltme Sistemi - Sağlık Uygulaması
+# SymSpell Algoritması - Detaylı Açıklama
 
-Sağlık terminolojisi üzerinde SymSpell algoritmasını kullanarak yazım hataları düzelten, gerçek hayat uygulamasını öğreten kapsamlı bir proje.
-
----
-
-## 📋 İçindekiler
-
-1. [Proje Yapısı](#proje-yapısı)
-2. [SymSpell Algoritmasının Detaylı Açıklaması](#symspell-algoritmasının-detaylı-açıklaması)
-3. [Basit Örnek Adım Adım](#basit-örnek-adım-adım)
-4. [Sağlık Veri Kümesi](#sağlık-veri-kümesi)
-5. [Kullanım Örnekleri](#kullanım-örnekleri)
-6. [Sonuçlar](#sonuçlar)
-
----
-
-## 🏗️ Proje Yapısı
-
-```
-tubitak_2247c/
-├── README.md                                  # Bu dosya
-├── word_correction_algorithms.py              # Temel algoritmaların Python uygulaması
-├── word_correction_algorithms.c               # C yazılımı (Wagner-Fischer, Levenshtein)
-├── word_correction_algorithms.ipynb           # Wagner-Fischer, Levenshtein, Baseline demo
-├── symspell_dataset_correction.ipynb          # SymSpell + Sentetik sağlık veri kümesi
-└── words/                                     # Sözlük dosyaları
-    └── TEMIZLENMIS_TUM_TERIMLER_2026.03.24_Burak[13].txt
-```
+Yazım hataları düzeltmek için tasarlanmış **çok hızlı** bir algoritmanın adım adım açıklaması.
 
 ---
 
