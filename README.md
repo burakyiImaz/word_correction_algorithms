@@ -248,4 +248,3 @@ lookup süresi: <5 ms
 ---
 
 
-İstersen bunu direkt paper formatına (IEEE / LaTeX) da dönüştürebilirim veya projene uygun “daha akademik” versiyonunu yazabilirim.
